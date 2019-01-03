@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="poc" max_length="40" name="x_58872_needit_poc" type="collection">
+        <element label="Article" max_length="40" name="article" type="string"/>
+        <element label="ID" max_length="40" name="id" type="integer"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element label="UserID" max_length="40" name="userid" type="integer"/>
+    </element>
+</database>
